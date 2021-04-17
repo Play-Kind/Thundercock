@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"Virgin Intro","characterIndex":0,"characterName":"Virgin","classId":1,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"Virgin","traits":[{"code":43,"dataId":1,"value":1},{"code":43,"dataId":3,"value":1},{"code":43,"dataId":2,"value":1},{"code":43,"dataId":7,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Virgin","nickname":"","note":"","profile":""}
+]

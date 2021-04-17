@@ -1,0 +1,41 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1232
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+TypeError
+TypeError: $gamePlayer.followers(...).forEach is not a function
+    at Spriteset_Map._createCharactersABS (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/plugins/Alpha_ABS_build.js:39349:29)
+    at Spriteset_Map.createCharacters (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/plugins/Alpha_ABS_build.js:39322:12)
+    at Spriteset_Map.createLowerLayer (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/rmmz_sprites.js:3376:10)
+    at Spriteset_Map.Spriteset_Base.initialize (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/rmmz_sprites.js:3136:10)
+    at Spriteset_Map.initialize (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/rmmz_sprites.js:3357:41)
+    at Spriteset_Map.initialize (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/plugins/Alpha_ABS_build.js:39366:31)
+    at new Spriteset_Map (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/rmmz_sprites.js:3350:10)
+    at Scene_Map.createSpriteset (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/rmmz_scenes.js:898:23)
+    at Scene_Map.createSpriteset (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/plugins/Alpha_ABS_build.js:33127:32)
+    at Scene_Map.createSpriteset (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/plugins/Alpha_ABS_build.js:33312:42)
+----------
+ERROR!
+Using AlphaABS [Build: 1232 ; on MZ  1.1.1]
+----------
+ERROR!
+TypeError: $gamePlayer.followers(...).forEach is not a function
+    at Spriteset_Map._createCharactersABS (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/plugins/Alpha_ABS_build.js:39349:29)
+    at Spriteset_Map.createCharacters (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/plugins/Alpha_ABS_build.js:39322:12)
+    at Spriteset_Map.createLowerLayer (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/rmmz_sprites.js:3376:10)
+    at Spriteset_Map.Spriteset_Base.initialize (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/rmmz_sprites.js:3136:10)
+    at Spriteset_Map.initialize (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/rmmz_sprites.js:3357:41)
+    at Spriteset_Map.initialize (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/plugins/Alpha_ABS_build.js:39366:31)
+    at new Spriteset_Map (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/rmmz_sprites.js:3350:10)
+    at Scene_Map.createSpriteset (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/rmmz_scenes.js:898:23)
+    at Scene_Map.createSpriteset (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/plugins/Alpha_ABS_build.js:33127:32)
+    at Scene_Map.createSpriteset (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/plugins/Alpha_ABS_build.js:33312:42)
+----------
