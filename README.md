@@ -1,4 +1,3 @@
-# Thundercock
-## The Rising of Virgin
+# The Rising of Virgin
 
 ### by Alexander Würfl & David Fink
