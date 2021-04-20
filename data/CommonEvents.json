@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"list":[{"code":285,"indent":0,"parameters":[3,6,2,-1,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Spieler, Region ID","switchId":21,"trigger":2},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":101,"indent":0,"parameters":["",0,0,2,""]},{"code":401,"indent":0,"parameters":["möchtest du die Fackel entzünden?"]},{"code":102,"indent":0,"parameters":[["Ja","Nein"],1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"Ja"]},{"code":111,"indent":1,"parameters":[8,5]},{"code":123,"indent":2,"parameters":["A",0]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2,""]},{"code":401,"indent":2,"parameters":["Du benötigst ein Feuerzeug"]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Nein"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Fackel","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
